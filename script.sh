@@ -13,3 +13,4 @@ done
 #192.168.87.24" "192.168.87.23" "192.168.87.22" "192.168.87.21" "192.168.87.27
 #"192.168.87.01" "192.168.87.02" "192.168.87.04" "192.168.87.05"
 #echo 123456 | sudo -S reboot
+# bash <(curl -s https://raw.githubusercontent.com/VishnukantMULE/ShellScripts_Practice/main/script.sh)
